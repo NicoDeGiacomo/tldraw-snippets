@@ -31,7 +31,7 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 | Category | Elements | Description |
 |----------|----------|-------------|
 | [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity, Actor | OOAD robustness analysis elements |
-| [General Architecture](./library/architecture/README.md) | Queue, Database | System architecture components |
+| [Infrastructure](./library/infrastructure/README.md) | Queue, Database, Server | Infrastructure diagram components |
 | [Misc](./library/misc/README.md) | Sticky notes, labels, badges | General-purpose diagram elements |
 
 ## 📋 Full Element Catalog
@@ -39,7 +39,7 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 ### Robustness Diagram Elements
 `Boundary` · `Controller` · `Entity` · `Actor` · `Use Case`
 
-### Architecture Diagram Elements  
+### Infrastructure Diagram Elements  
 `Queue` · `Database` · `Server` · `Cloud` · `API Gateway` · `Load Balancer`
 
 ### Miscellaneous Elements
@@ -108,7 +108,7 @@ See our [contribution guide](./CONTRIBUTING.md) for step-by-step instructions on
 
 ## 🏷️ Keywords
 
-`tldraw` · `tldraw snippets` · `tldraw templates` · `tldraw components` · `diagram snippets` · `UML snippets` · `architecture diagram` · `robustness diagram` · `whiteboard templates` · `copy paste diagrams` · `tldraw library` · `diagram components` · `flowchart elements` · `system design diagrams`
+`tldraw` · `tldraw snippets` · `tldraw templates` · `tldraw components` · `diagram snippets` · `UML snippets` · `infrastructure diagram` · `robustness diagram` · `whiteboard templates` · `copy paste diagrams` · `tldraw library` · `diagram components` · `flowchart elements` · `system design diagrams`
 
 ---
 
