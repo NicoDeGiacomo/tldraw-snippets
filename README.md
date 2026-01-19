@@ -20,9 +20,9 @@ That's it! The element will appear on your canvas ready to use.
 
 ## Catalog
 
-- **Robustness Diagram**: Boundary, Controller, Entity
-- **General Architecture**: Queue, Database, Server, Cloud
-- **Misc**: Sticky Note, Label, Icon Badge
+- **Robustness Diagram**: Boundary, Controller, Entity, Actor, Use Case, etc.
+- **General Architecture**: Queue, Database, etc.
+- **Misc**: Miscellaneous elements.
 
 ## Contributing
 
