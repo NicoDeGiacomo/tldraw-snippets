@@ -5,7 +5,11 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 [![GitHub Stars](https://img.shields.io/github/stars/NicoDeGiacomo/tldraw-snippets?style=social)](https://github.com/NicoDeGiacomo/tldraw-snippets)
 
-![tldraw Snippets Library Banner](/_assets/banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/_assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/_assets/banner-light.svg">
+  <img alt="tldraw Snippets Library Banner" src="/_assets/banner.svg">
+</picture>
 
 ## ✨ Features
 
