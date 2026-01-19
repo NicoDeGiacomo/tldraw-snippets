@@ -32,6 +32,7 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 |----------|----------|-------------|
 | [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity, Actor | OOAD robustness analysis elements |
 | [Infrastructure](./library/infrastructure/README.md) | Queue, Database, Server | Infrastructure diagram components |
+| [Icons](./library/icons/README.md) | GitHub, Docker | Brand and technology icons |
 | [Misc](./library/misc/README.md) | Sticky notes, labels, badges | General-purpose diagram elements |
 
 ## 📋 Full Element Catalog
@@ -41,6 +42,9 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 
 ### Infrastructure Diagram Elements  
 `Queue` · `Database` · `Server` · `Cloud` · `API Gateway` · `Load Balancer`
+
+### Icons
+`GitHub` · `Docker`
 
 ### Miscellaneous Elements
 `Sticky Note` · `Label` · `Badge` · `Callout`
