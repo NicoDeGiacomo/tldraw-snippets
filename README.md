@@ -1,33 +1,115 @@
 # tldraw Snippets Library
 
-Copy/paste-ready diagram fragments for [tldraw](https://tldraw.com). Build diagrams faster by reusing pre-made elements.
+> **Copy/paste-ready diagram components for [tldraw](https://tldraw.com)** — the infinite canvas whiteboard. Build UML diagrams, architecture diagrams, and flowcharts faster by reusing pre-made elements.
 
-## How to Use
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/NicoDeGiacomo/tldraw-snippets?style=social)](https://github.com/NicoDeGiacomo/tldraw-snippets)
 
-1. **Browse** the [categories](#browse-categories) and find the element you need
-2. **Copy** the HTML snippet from the code block
-3. **Paste** directly into tldraw (Ctrl/Cmd + V)
+![tldraw Snippets Library Banner](/_assets/banner.svg)
 
-That's it! The element will appear on your canvas ready to use.
+## ✨ Features
 
-## Browse Categories
+- **Zero setup** — Just copy and paste, no plugins or extensions needed
+- **Growing library** — UML, architecture, flowchart elements and more
+- **Community-driven** — Contribute your own diagram components
 
-| Category | Description |
-|----------|-------------|
-| [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity elements |
-| [General Architecture](./library/architecture/README.md) | Queues, databases, servers, cloud components |
-| [Misc](./library/misc/README.md) | Sticky notes, labels, badges |
+## 🚀 How to Use
 
-## Catalog
+1. **Browse** the [snippet categories](#-browse-categories) below
+2. **Expand** the "Copy/paste snippet" section under any element
+3. **Copy** the HTML code block
+4. **Paste** directly into [tldraw.com](https://tldraw.com) (Ctrl/Cmd + V)
 
-- **Robustness Diagram**: Boundary, Controller, Entity, Actor, Use Case, etc.
-- **General Architecture**: Queue, Database, etc.
-- **Misc**: Miscellaneous elements.
+The element appears on your canvas instantly — ready to use, resize, and customize!
 
-## Contributing
+## 📚 Browse Categories
 
-Want to add your own snippets? Check out our [contribution guidelines](./CONTRIBUTING.md).
+| Category | Elements | Description |
+|----------|----------|-------------|
+| [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity, Actor | OOAD robustness analysis elements |
+| [General Architecture](./library/architecture/README.md) | Queue, Database | System architecture components |
+| [Misc](./library/misc/README.md) | Sticky notes, labels, badges | General-purpose diagram elements |
+
+## 📋 Full Element Catalog
+
+### Robustness Diagram Elements
+`Boundary` · `Controller` · `Entity` · `Actor` · `Use Case`
+
+### Architecture Diagram Elements  
+`Queue` · `Database` · `Server` · `Cloud` · `API Gateway` · `Load Balancer`
+
+### Miscellaneous Elements
+`Sticky Note` · `Label` · `Badge` · `Callout`
+
+## 🎯 Use Cases
+
+This snippet library is perfect for:
+
+- **Software architects** designing system diagrams
+- **Developers** documenting microservices and APIs
+- **Students** learning UML and OOAD concepts
+- **Teams** collaborating on whiteboard diagrams
+- **Anyone** who uses tldraw for diagramming
+
+## 💡 Why tldraw Snippets?
+
+Creating consistent diagram elements from scratch is time-consuming. This library provides:
+
+| Without Snippets | With Snippets |
+|------------------|---------------|
+| Draw shapes manually | Copy → Paste → Done |
+| Inconsistent styling | Uniform, professional look |
+| Recreate common elements | Reuse proven components |
+| Start from zero | Build on community work |
+
+## 🤝 Contributing
+
+We welcome contributions! Add your own diagram elements:
+
+1. Create your element in tldraw
+2. Export the snippet and preview image
+3. Submit a pull request
+
+See the [contribution guidelines](./CONTRIBUTING.md) for the complete process.
+
+## ❓ FAQ
+
+<details>
+<summary><strong>What is tldraw?</strong></summary>
+
+[tldraw](https://tldraw.com) is a free, open-source infinite canvas whiteboard for sketching, diagramming, and visual collaboration.
+
+</details>
+
+<details>
+<summary><strong>Do snippets work with self-hosted tldraw?</strong></summary>
+
+Yes! Snippets are compatible with any tldraw instance using the same data format.
+
+</details>
+
+<details>
+<summary><strong>Can I modify snippets after pasting?</strong></summary>
+
+Absolutely. Once pasted, elements behave like any other tldraw shape — resize, recolor, reposition freely.
+
+</details>
+
+<details>
+<summary><strong>How do I create my own snippets?</strong></summary>
+
+See our [contribution guide](./CONTRIBUTING.md) for step-by-step instructions on creating and sharing snippets.
+
+</details>
+
+## 🏷️ Keywords
+
+`tldraw` · `tldraw snippets` · `tldraw templates` · `tldraw components` · `diagram snippets` · `UML snippets` · `architecture diagram` · `robustness diagram` · `whiteboard templates` · `copy paste diagrams` · `tldraw library` · `diagram components` · `flowchart elements` · `system design diagrams`
 
 ---
 
 **Disclaimer:** This project is not affiliated with or endorsed by tldraw. All trademarks belong to their respective owners.
+
+## 📄 License
+
+MIT License — feel free to use these snippets in personal and commercial projects.
