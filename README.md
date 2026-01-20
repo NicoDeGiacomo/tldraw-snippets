@@ -30,8 +30,8 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 
 | Category | Elements | Description |
 |----------|----------|-------------|
-| [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity, Actor | OOAD robustness analysis elements |
-| [Infrastructure](./library/infrastructure/README.md) | Queue, Database, Server | Infrastructure diagram components |
+| [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity, Actor, Use Case | OOAD robustness analysis elements |
+| [Infrastructure](./library/infrastructure/README.md) | Queue, Database, Server, Device | Infrastructure diagram components |
 | [Icons](./library/icons/README.md) | GitHub, Docker | Brand and technology icons |
 | [Misc](./library/misc/README.md) | User, Cancel, Magnifying Glass, Bookmark, Tag | General-purpose diagram elements |
 
@@ -41,7 +41,7 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 `Boundary` · `Controller` · `Entity` · `Actor` · `Use Case`
 
 ### Infrastructure Diagram Elements  
-`Queue` · `Database` · `Server` · `Cloud` · `API Gateway` · `Load Balancer`
+`Queue` · `Database` · `Server` · `Device`
 
 ### Icons
 `GitHub` · `Docker`

@@ -27,7 +27,9 @@ library/
   my-new-category/
     README.md
     my-element.svg
+    my-element-dark.svg
     another-element.svg
+    another-element-dark.svg
 ```
 
 ## Required Entry Format
@@ -37,7 +39,11 @@ Every element entry **must** follow this exact template:
 ````markdown
 ## Element Name
 
-![Element Name](./element-name.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./element-name-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./element-name.svg">
+  <img alt="Element Name" src="./element-name.svg">
+</picture>
 
 <details>
 <summary>Copy/paste snippet</summary>
@@ -48,6 +54,8 @@ Every element entry **must** follow this exact template:
 
 </details>
 ````
+
+**Note:** The `<picture>` element allows GitHub to automatically show the appropriate image based on the user's color scheme preference.
 
 ## How to Add a New Element
 
@@ -63,7 +71,9 @@ Every element entry **must** follow this exact template:
 1. Paste the copied content into a clipboard inspector like: [Clipboard Inspector](https://evercoder.github.io/clipboard-inspector/)
 2. You'll see HTML like: `<meta charset="utf-8"><div data-tldraw="">...</div>`
 
-### Step 3: Create the Preview Image
+### Step 3: Create the Preview Images (Light & Dark)
+
+You must provide both light and dark versions of your element:
 
 1. In tldraw, select your element
 2. Right-click → "Export as" → Toogle transparent → SVG
@@ -100,6 +110,7 @@ Snippets contain serialized tldraw data. Any modification may break the paste fu
 - Keep file sizes reasonable (< 500KB)
 - Ensure the element is clearly visible
 - Use a transparent background
+- **Always include both light and dark versions** (`element.svg` and `element-dark.svg`)
 
 ### Content Guidelines
 

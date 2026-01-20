@@ -6,7 +6,11 @@ Elements for robustness analysis diagrams, commonly used in OOAD (Object-Oriente
 
 ## Boundary
 
-![Boundary](./boundary.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./boundary-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./boundary.svg">
+  <img alt="Boundary" src="./boundary.svg">
+</picture>
 
 <details>
 <summary>Copy/paste snippet</summary>
@@ -21,7 +25,11 @@ Elements for robustness analysis diagrams, commonly used in OOAD (Object-Oriente
 
 ## Controller
 
-![Controller](./controller.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./controller-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./controller.svg">
+  <img alt="Controller" src="./controller.svg">
+</picture>
 
 <details>
 <summary>Copy/paste snippet</summary>
@@ -36,7 +44,11 @@ Elements for robustness analysis diagrams, commonly used in OOAD (Object-Oriente
 
 ## Entity
 
-![Entity](./entity.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./entity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./entity.svg">
+  <img alt="Entity" src="./entity.svg">
+</picture>
 
 <details>
 <summary>Copy/paste snippet</summary>
@@ -51,7 +63,11 @@ Elements for robustness analysis diagrams, commonly used in OOAD (Object-Oriente
 
 ## Actor
 
-![Entity](./actor.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./actor-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./actor.svg">
+  <img alt="Actor" src="./actor.svg">
+</picture>
 
 <details>
 <summary>Copy/paste snippet</summary>
@@ -66,7 +82,11 @@ Elements for robustness analysis diagrams, commonly used in OOAD (Object-Oriente
 
 ## Use Case
 
-![Entity](./use-case.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./use-case-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./use-case.svg">
+  <img alt="Use Case" src="./use-case.svg">
+</picture>
 
 <details>
 <summary>Copy/paste snippet</summary>
