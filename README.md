@@ -32,8 +32,8 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 |----------|----------|-------------|
 | [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity, Actor, Use Case | OOAD robustness analysis elements |
 | [Class Diagram](./library/class-diagram/README.md) | Class | UML class diagram elements |
-| [Infrastructure](./library/infrastructure/README.md) | Queue, Database, Server, Device | Infrastructure diagram components |
-| [Icons](./library/icons/README.md) | GitHub, Docker, Lambda | Brand and technology icons |
+| [Infrastructure](./library/infrastructure/README.md) | Queue, Database, Server, Device, Load Balancer | Infrastructure diagram components |
+| [Icons](./library/icons/README.md) | GitHub, Docker, Lambda, Redis, Kubernetes, RabbitMQ, Nginx, PostgreSQL | Brand and technology icons |
 | [Misc](./library/misc/README.md) | User, Cancel, Magnifying Glass, Bookmark, Tag, Computer, Envelope | General-purpose diagram elements |
 
 ## 📋 Full Element Catalog
@@ -45,10 +45,10 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 `Class`
 
 ### Infrastructure Diagram Elements  
-`Queue` · `Database` · `Server` · `Device`
+`Queue` · `Database` · `Server` · `Device` · `Load Balancer`
 
 ### Icons
-`GitHub` · `Docker` · `Lambda`
+`GitHub` · `Docker` · `Lambda` · `Redis` · `Kubernetes` · `RabbitMQ` · `Nginx` · `PostgreSQL`
 
 ### Miscellaneous Elements
 `User` · `Cancel` · `Magnifying Glass` · `Bookmark` · `Tag` · `Computer` · `Envelope`
