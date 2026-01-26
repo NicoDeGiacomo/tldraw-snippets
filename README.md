@@ -75,7 +75,7 @@ Creating consistent diagram elements from scratch is time-consuming. This librar
 We welcome contributions! Add your own diagram elements:
 
 1. Create your element in tldraw
-2. Export the snippet and preview image
+2. Export the snippet and preview images (light & dark versions)
 3. Submit a pull request
 
 See the [contribution guidelines](./CONTRIBUTING.md) for the complete process.
