@@ -118,4 +118,23 @@ Miscellaneous diagram elements.
 
 ---
 
+## Envelope
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./envelope-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./envelope.svg">
+  <img alt="Envelope" src="./envelope.svg">
+</picture>
+
+<details>
+<summary>Copy/paste snippet</summary>
+
+```html
+<meta charset='utf-8'><html><head></head><body><div data-tldraw="">{"type":"application/tldraw","kind":"content","version":3,"data":{"assets":[],"otherCompressed":"N4IgzgxgFgpgtgQxALlJWiBqMBOYCWA9gHYoBMANODAI4CuMxEMYKoEhcAdAC4A2AExwIA7lzA9COGCgCsVDt35DRXBGDAweKAIwLOvQcLEQEcXEmR6QiwyrEDCEOueLbklGweXGu+YhIITDIe8l5KRqr+gcEA+gAOCADmMLGBPCFhtj6qiSm6+hH2fgE8QcwJ0prBKABshXa+8YT+GTgF4Y2qYFAI8SEALA05YuqaPFwARoSEANaIOLPkw5GjGlp+iPnIWd6rausTAG74AjCEcivFPX0wajg4hCIoABxXvjf9UzPzCIvLnRG4l6X3sKCGgP2nzu8EmMAE4Pe3RBdwAZsJzB1slCUVwUhcrNZsddcUlHnR4igAAxIsTQrhQfBJKB8JlQdwAZlpwNum2SmW59NZxAFkJJvOIhAyuhpYo+uIyAA93BDifLeSczgTVXtipN/AJ/El7o9nlYAL7mqjQ1jIADaoEVKA5LypXDIVI9tR0HLILwA7FSdNYAJ5yLiyf2Rl4DWqyAY6KkcjkDN4gR5lHhEUjIWX4MAAGScs3hKFRCD4miohESEHwPDDVio5jKbCtIFOKHAKOQLwIBeIRwACvEAIpHABaAHU6L0aABaADiAgAIgMQFQG/0u2TCBSNyBEtI3ABJBHIQ/85B5GRUA0wJ0XyZUk+K2YCVFJTAH+KPeK24B2y3GAADkzBCbtbhAK1HTkMguBeHRag5f0UKpWQAE4qW9DCqEbedZC4DkMODWoXkjdDZDQsgwgzBAsxIXQI1dKkMJeF0BipQMkx9O9C2LUtkHLSsYGrWt60bawW0sQC73PSD+mQABhAY4B4AAxHAVxDfBRwAZQALwEWR4kXdSAFlZAAJXUg9gLAzEL2hH8/kYHgzy7aFe37QcR3HadZwQBdlzXA970fEAEB0OyQ23C98R/P8AJAM0Bng/0yFqLKgwGLDI29KgoBQKMuHQ5NagwsgdATKlU08BKL2kCAymIJI+FvEABHUIqnMIVkESoXcRAATWpKg6BwPguwPSAKxCIk+qkLtJj4BAICWKhVrhPglMW9on1W9aD1RfA+Cmi9JRFGb8AMiDWCoVESHcTrjAPCsmRzEA4FOAR2oPI5cCzUw+AAQVZJJPu+gRfo6nB8GgAAVB93FAYCu0cCADw4Nw3JQB0QDRi8j2SYR4iK80AF1LRgkBH3nKquCQnQMP9ciXj9OMqVqvCUHnAYEM4qjZBjIMyFy9mqDohiczzfj1sE4SqxAGs1okjppLbOTPJ7PgT1qIdZhBgB5WYBhDPSEBBgBRCcCwMgArOB53tmL+gcu6URc493Pkry+3wAdhzHScZznJdV3XO9iDOCKEDIDlCBAuhCG/TdYog4UOt/Gtkq6npPL6ztrRuu6sb25bDo28B4kzrta6oZpWmSqK2A7eSW6jmOuw72mxpARsqXbOPiCHFwoG/VA2+7sgR7H1OO2jh9p9nuBx4PR8UKIrLan9AZhcjVNWJ5qwMIjVDPS5qrE1qT1ZCHjkT2GicACERAn0BOwvBAH6f1/5/C7uP8X5v3XsVDkAsOTbwGAMX0yEMJcn7rzN00DUwJkgQmHQmEsJkEtNaYG81LQU0ljMHgekURnltHaBSMBvIB18sHAKYcQrriISAfU0cjSUKpkAA=="}}</div></body></html>
+```
+
+</details>
+
+---
+
 [← Back to Library](../../README.md)

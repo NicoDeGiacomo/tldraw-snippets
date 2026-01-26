@@ -31,14 +31,18 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 | Category | Elements | Description |
 |----------|----------|-------------|
 | [Robustness Diagram](./library/robustness-diagram/README.md) | Boundary, Controller, Entity, Actor, Use Case | OOAD robustness analysis elements |
+| [Class Diagram](./library/class-diagram/README.md) | Class | UML class diagram elements |
 | [Infrastructure](./library/infrastructure/README.md) | Queue, Database, Server, Device | Infrastructure diagram components |
 | [Icons](./library/icons/README.md) | GitHub, Docker, Lambda | Brand and technology icons |
-| [Misc](./library/misc/README.md) | User, Cancel, Magnifying Glass, Bookmark, Tag, Computer | General-purpose diagram elements |
+| [Misc](./library/misc/README.md) | User, Cancel, Magnifying Glass, Bookmark, Tag, Computer, Envelope | General-purpose diagram elements |
 
 ## 📋 Full Element Catalog
 
 ### Robustness Diagram Elements
 `Boundary` · `Controller` · `Entity` · `Actor` · `Use Case`
+
+### Class Diagram Elements
+`Class`
 
 ### Infrastructure Diagram Elements  
 `Queue` · `Database` · `Server` · `Device`
@@ -47,7 +51,7 @@ The element appears on your canvas instantly — ready to use, resize, and custo
 `GitHub` · `Docker` · `Lambda`
 
 ### Miscellaneous Elements
-`User` · `Cancel` · `Magnifying Glass` · `Bookmark` · `Tag` · `Computer`
+`User` · `Cancel` · `Magnifying Glass` · `Bookmark` · `Tag` · `Computer` · `Envelope`
 
 ## 🎯 Use Cases
 
