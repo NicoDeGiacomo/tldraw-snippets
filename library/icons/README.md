@@ -42,4 +42,23 @@ Brand and technology icons for architecture and system diagrams.
 
 ---
 
+## Lambda
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./lambda-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./lambda.svg">
+  <img alt="Lambda" src="./lambda.svg">
+</picture>
+
+<details>
+<summary>Copy/paste snippet</summary>
+
+```html
+<meta charset='utf-8'><html><head></head><body><div data-tldraw="">{"type":"application/tldraw","kind":"content","version":3,"data":{"assets":[],"otherCompressed":"N4IgzgxgFgpgtgQxALlJWiBqMBOYCWA9gHYoBMANODAI4CuMxEMYKoEhcAdAC4A2AExwIA7lzA9COGCgCsVDt35DRXBGDAweKAIwLOvQcLEQEcXEmR6QiwyrEDCEOueLbklGweXGu+YhIITDIe8l5KRqr+gcEA+gAOCADmMLGBPCFhtj6qiSm6+hH2fgE8QcwJ0prBKABshXa+8YT+GTgF4Y2qYFAI8SEALA05YuqaPFwARoSEANaIOLPkw5GjGlp+iPnIWd6rausTAG74AjCEcivFPX0wajg4hCIoABxXvjf9UzPzCIvLnRG4l6X3sKCGgP2nzu8EmMAE4Pe3RBdwAZsJzB1slCUVwUhcrNZsddcUlHnR4igAAxIsTQrhQfBJKB8JlQdwAZlpwNum2SmW59NZxAFkJJvOIhAyuhpYo+uIyAA93BDifLeSczgTVXtipN/AJ/El7o9nlYAL7mqjQ1jIADaoEV4I5ZC4tVkZA5OipOhenrItS5IAAnigALTe121MgvACcge9Hp00aojzKPCIpGQsvwYAAMk5ZvCUKiEHxNFRCIkIPgeKGrFRzGU2FaQKcUOAUchiHRUTwAIIADQAqhyANIAYSgdEIAgAikkAAoAdjnAGVJiAqHX+h2yYQKVuQIlpG4AJII5DH/nIPIyKgGmBOq+TKl5tcDBDDgBifCP8UeeJbWAVsdxgAA5MwQk7W4QCtR1dFdZcOSpDkBlkZdYywrC4zCesdGXLhvRQqlSLIsj3VTKUEAzEhqQffNC2LZBS3LGBK2rWt8MbLRLBAh9Lxg/pkAAKzPNcACUAHEBH7CTlwnERFXA4M4GHRccGIMgLm3YN+kgzEr2hf8/kYHgLw7aFu17AcR3HKcZ3nJdVw3I9H2fEAEB0I8wI7YV72PQDgJAAR1CgSzCFZBFrXwAAvaDWH0PgpA7SY+AQCAlmteJ/L8/wAuaVpgq8tg20EkqH2IM4PIqkBn1lesqVbBAyDAEQACk10XTBSvbK8Wrazrurcqqnw7AaOq6nqqGfCMkJQtCMOw5a3hDchZC4AZalqZqOUVYcxwGKSpN68q9oOo6Tsq6rxvOw7jqPWaqS4WQCJeWQXipZbsJTNaPFqLg42XZqBhE79JmIEQetQMrxtB8HIemttRpq+GIahx66he5dakw5dZG+7CqHwjkiM+wnvuBqgEFkYd8CkqAJL/GG+s82n6cZv9rrG/r2YZpnMezQGsJjKkBgp2Nl2J6kXtqAZyIVsidEta1TD4EJlfguqUA5QiyAIql3QpoN6w5IM0xozN6LbRjMuY1iKxAKsMq4jomz41tWasqBh31gB5XMpJoGhiAGcWABEoD9+B+ydXT9KgyyURM09zMEqyez7IdR0nadZwXFd103bmarIWQwAAIQ5DH4+g3KqAAqtgtCnoIqio8CHiyyjw4ZL2hfdLMo7nL8rykV/xaNxiu8lnyu8kvxvn7Xs2l7Nms9CcAFkjlqaHQFZlqOS3nekfc8aN+33fBYjAYuHjH1PRI8idE8eswxdTayF2/AxzPdqBD3rDfqHIf5/wASNG6wDQH/yRrNMgsYiLLgGGbAiq934chBgALVRFAAA6nmQBB8BjYLwQQiBPNPLEJwfg2B4YUKIJeARSWisqR4XDJ6LgpFlbU1kAAFQABKzEIIqQh5U+GCOEafFG41xFCJEdfMgrogbwIGGQFhbDkBhkUc1WoOheEDD4BAUR41dH6MMVIyBnlTEGKMdfQiLxtpbQ5LIFhr8ZSfx0BLbCVNPLLk3pvCAsYjjGP6n4gJQSLEUIQGEwJwTBak1qEDDkLxMKExNrobhnkXjQCSHQfhISsk5LyZEmq2SoC5PyYLW+iTZC6PjBTKWf0dCcJYa45qsZN6LjAAAUXiAUhAHSum9JKeNQZPS+nxLdEklJxsNFNVbJAMsGtLQAF0qJSjXCiC8to7RCRgNZLOdlc6OQLi5TcayQD6iqkaHZKzzRAA=="}}</div></body></html>
+```
+
+</details>
+
+---
+
 [← Back to Library](../../README.md)
